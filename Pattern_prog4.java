@@ -2,7 +2,7 @@ package priti;
 
 public class Pattern_prog4 {
     public static void main(String[] args) {
- 
+     
         int n = 4;
         int size = 2 * n - 1;
 
